@@ -1816,3 +1816,5 @@ Readability.prototype = {
              excerpt: metadata.excerpt };
   }
 };
+
+module.export = Readability
