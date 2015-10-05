@@ -1817,4 +1817,4 @@ Readability.prototype = {
   }
 };
 
-module.export = Readability
+module.exports = Readability
